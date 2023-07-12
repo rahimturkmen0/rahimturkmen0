@@ -1,4 +1,4 @@
-[![MasterHead](https://i0.wp.com/shinesolutions.com/wp-content/uploads/2021/08/1024.jpeg?fit=1024%2C576&ssl=1)
+![MasterHead](https://i0.wp.com/shinesolutions.com/wp-content/uploads/2021/08/1024.jpeg?fit=1024%2C576&ssl=1)
 <h1 align="center">Hi 👋, I'm Rahim</h1>
 <h3 align="center">A passionate iOS developer from Turkey</h3>
 
